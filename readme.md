@@ -126,15 +126,6 @@ The dashboard includes:
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Install Dependencies
-
-pip install -r requirements.txt
-src/db_connection.py
-python main.py
-dashboard/telecom_churn_dashboard.pbix
-
 ## 📚 Learning Outcomes
 
 - End-to-end data pipeline development  
