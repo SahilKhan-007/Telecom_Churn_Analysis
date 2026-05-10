@@ -33,25 +33,7 @@ This project aims to answer:
 | Python (Pandas, NumPy) | Data cleaning & feature engineering |
 | MySQL | SQL analysis & business queries |
 | Power BI | Dashboard & storytelling |
-| Excel | Quick validation & pivot analysis |
 | VS Code | Development environment |
-
----
-
-## 📂 Project Structure
-Telecom_Churn_Analysis/
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│ └── database/
-│
-├── sql/
-├── dashboard/
-├── src/
-├── main.py
-├── requirements.txt
-└── README.md
 
 ---
 
@@ -148,7 +130,6 @@ The dashboard includes:
 
 ### 1️⃣ Install Dependencies
 
-```bash id="k2v8mn"
 pip install -r requirements.txt
 src/db_connection.py
 python main.py
